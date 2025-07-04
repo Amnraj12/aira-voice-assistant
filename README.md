@@ -103,17 +103,23 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 
 ## 📸 Screenshots
 
-| Home Screen                | API Key Security           |
-|:--------------------------:|:-------------------------:|
-| ![Home](screenshots/home.png) | ![Key](screenshots/security.png) |
+## 📸 Screenshots
 
-| Voice: Listening           | Voice: Responding         |
-|:--------------------------:|:-------------------------:|
-| ![Listening](screenshots/voice_listening.png) | ![Responding](screenshots/voice_responding.png) |
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Screen" width="160" style="margin-right: 18px;"/>
+  <img src="screenshots/security.png" alt="API Key Security" width="160" style="margin-right: 18px;"/>
+  <img src="screenshots/voice_listening.png" alt="Voice Listening" width="160" style="margin-right: 18px;"/>
+  <img src="screenshots/voice_responding.png" alt="Voice Responding" width="160" style="margin-right: 18px;"/>
+  <img src="screenshots/multilingual.png" alt="Multilingual Support" width="160"/>
+</p>
 
-| Multilingual Support       |                           |
-|:--------------------------:|:-------------------------:|
-| ![Multilingual](screenshots/multilingual.png) |  |
+<p align="center">
+  <b>Home Screen</b> &nbsp; | &nbsp;
+  <b>API Key Security</b> &nbsp; | &nbsp;
+  <b>Voice: Listening</b> &nbsp; | &nbsp;
+  <b>Voice: Responding</b> &nbsp; | &nbsp;
+  <b>Multilingual Support</b>
+</p>
 
 - **Home Screen:** Clean, modern chat interface.
 - **API Key Security:** Secure API key entry and management.
