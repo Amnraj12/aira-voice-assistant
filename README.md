@@ -191,8 +191,7 @@ Please make sure to update tests as appropriate.
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## 👤 Author & Contact
