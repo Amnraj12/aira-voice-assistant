@@ -104,7 +104,7 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 ## 📸 Screenshots
 
 <p align="left">
-  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 400px;"/>
+  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 40px;"/>
   <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 40px;"/>
   <img src="screenshots/security.png" alt="API Key Security" width="240"/>
   
@@ -116,15 +116,16 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 </p>
 
 <p align="left">
-  <b>Home Screen</b> &nbsp; &nbsp; <b>API Key Security</b> &nbsp; &nbsp; <b>Voice: Listening</b><br>
-  <b>Voice: Responding</b> &nbsp; &nbsp; <b>Multilingual Support</b>
+  <b>Home Screen</b> &nbsp; &nbsp; <b>Multilingual Support</b> &nbsp; &nbsp; <b>API Key Security</b><br>
+  <b>Voice: Listening</b> &nbsp; &nbsp; <b>Voice: Responding</b>
 </p>
 
 - **Home Screen:** Clean, modern chat interface.
+- **Multilingual Support:** User interacts in a language other than English (e.g., Hindi), and the AI responds appropriately.
 - **API Key Security:** Secure API key entry and management.
 - **Voice: Listening:** App actively listening for user input.
 - **Voice: Responding:** AI generating and speaking a response.
-- **Multilingual Support:** User interacts in a language other than English (e.g., Hindi), and the AI responds appropriately.
+
 
 ---
 
