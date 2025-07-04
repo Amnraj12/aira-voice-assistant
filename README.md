@@ -104,7 +104,7 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 ## 📸 Screenshots
 
 <p align="left">
-  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 40px;"/>
+  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 400px;"/>
   <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 40px;"/>
   <img src="screenshots/security.png" alt="API Key Security" width="240"/>
   
