@@ -103,19 +103,19 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 24px;"/>
-  <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 24px;"/>
+<p align="left">
+  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 40px;"/>
+  <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 40px;"/>
   <img src="screenshots/security.png" alt="API Key Security" width="240"/>
   
 </p>
-<p align="center">
-  <img src="screenshots/voice_listening.png" alt="Voice Listening" width="240" style="margin-right: 24px;"/>
+<p align="left">
+  <img src="screenshots/voice_listening.png" alt="Voice Listening" width="240" style="margin-right: 40px;"/>
   <img src="screenshots/voice_responding.png" alt="Voice Responding" width="240" />
   
 </p>
 
-<p align="center">
+<p align="left">
   <b>Home Screen</b> &nbsp; &nbsp; <b>API Key Security</b> &nbsp; &nbsp; <b>Voice: Listening</b><br>
   <b>Voice: Responding</b> &nbsp; &nbsp; <b>Multilingual Support</b>
 </p>
