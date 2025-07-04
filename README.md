@@ -80,7 +80,7 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 - **Open Plugin Architecture:** Allow third-party developers to extend Aira’s capabilities via plugins.
 - **Automated Testing & CI/CD:** Integrate unit, integration, and end-to-end tests with continuous integration pipelines for code quality and reliability.
 
-> _Feedback and feature requests are welcome! See [issues](https://github.com/yourusername/aira-voice-assistant/issues) to contribute ideas or track progress._
+> _Feedback and feature requests are welcome! See [issues](https://github.com/amnraj12/aira-voice-assistant/issues) to contribute ideas or track progress._
 
 ---
 
@@ -197,7 +197,7 @@ Please make sure to update tests as appropriate.
 
 ## 👤 Author & Contact
 
-Developed and maintained by [Your Name].  
-For questions, collaborations, or professional inquiries, reach out via [your.email@example.com](mailto:your.email@example.com) or connect on [LinkedIn](https://www.linkedin.com/).
+Developed and maintained by Aman Raj.  
+For questions, collaborations, or professional inquiries, reach out via [amnraj125@gmail.com](mailto:amnraj125@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/aman-raj-3a3ab02b2/).
 
 ---
