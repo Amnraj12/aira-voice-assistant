@@ -8,6 +8,33 @@ In an era where conversational AI is rapidly transforming how we interact with t
 
 ---
 
+## 📸 Screenshots
+
+<p align="left">
+  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 40px;"/>
+  <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 40px;"/>
+  <img src="screenshots/security.png" alt="API Key Security" width="240"/>
+  
+</p>
+<p align="left">
+  <img src="screenshots/voice_listening.png" alt="Voice Listening" width="240" style="margin-right: 40px;"/>
+  <img src="screenshots/voice_responding.png" alt="Voice Responding" width="240" />
+  
+</p>
+
+<p align="left">
+  <b>Home Screen</b> &nbsp; &nbsp; <b>Multilingual Support</b> &nbsp; &nbsp; <b>API Key Security</b><br>
+  <b>Voice: Listening</b> &nbsp; &nbsp; <b>Voice: Responding</b>
+</p>
+
+- **Home Screen:** Clean, modern chat interface.
+- **Multilingual Support:** User interacts in a language other than English (e.g., Hindi), and the AI responds appropriately.
+- **API Key Security:** Secure API key entry and management.
+- **Voice: Listening:** App actively listening for user input.
+- **Voice: Responding:** AI generating and speaking a response.
+
+---
+
 ## 🚀 Why Aira?
 
 - **Global Accessibility, Local Empowerment:** Many leading voice AI solutions are either unavailable or heavily restricted in certain regions, with frequent outages and word limits. Aira is designed to work seamlessly for users everywhere, including India, ensuring uninterrupted, high-quality AI interaction.
@@ -98,34 +125,6 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 - All API keys and tokens are stored securely on-device using platform keystore solutions.
 - Follows the principle of least privilege and secure defaults.
 - Codebase is regularly reviewed for vulnerabilities and follows secure coding standards.
-
----
-
-## 📸 Screenshots
-
-<p align="left">
-  <img src="screenshots/home.png" alt="Home Screen" width="240" style="margin-right: 40px;"/>
-  <img src="screenshots/multilingual.png" alt="Multilingual Support" width="240" style="margin-right: 40px;"/>
-  <img src="screenshots/security.png" alt="API Key Security" width="240"/>
-  
-</p>
-<p align="left">
-  <img src="screenshots/voice_listening.png" alt="Voice Listening" width="240" style="margin-right: 40px;"/>
-  <img src="screenshots/voice_responding.png" alt="Voice Responding" width="240" />
-  
-</p>
-
-<p align="left">
-  <b>Home Screen</b> &nbsp; &nbsp; <b>Multilingual Support</b> &nbsp; &nbsp; <b>API Key Security</b><br>
-  <b>Voice: Listening</b> &nbsp; &nbsp; <b>Voice: Responding</b>
-</p>
-
-- **Home Screen:** Clean, modern chat interface.
-- **Multilingual Support:** User interacts in a language other than English (e.g., Hindi), and the AI responds appropriately.
-- **API Key Security:** Secure API key entry and management.
-- **Voice: Listening:** App actively listening for user input.
-- **Voice: Responding:** AI generating and speaking a response.
-
 
 ---
 
