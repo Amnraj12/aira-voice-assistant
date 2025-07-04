@@ -197,7 +197,7 @@ Please make sure to update tests as appropriate.
 
 ## 👤 Author & Contact
 
-Developed and maintained by [Aman Raj].  
-For questions, collaborations, or professional inquiries, reach out via [amnraj125@gmail.com](mailto:amnraj125@gmail.com) or connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aman-raj-3a3ab02b2/)).
+Developed and maintained by Aman Raj.  
+For questions, collaborations, or professional inquiries, reach out via [amnraj125@gmail.com](mailto:amnraj125@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/aman-raj-3a3ab02b2/).
 
 ---
