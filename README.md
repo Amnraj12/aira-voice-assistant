@@ -103,8 +103,6 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 
 ## 📸 Screenshots
 
-> _Showcase your story. Replace these with your own:_
->
 > | Home Screen | Voice Conversation | Multilingual Chat | API Key Security |
 > |:-----------:|:-----------------:|:----------------:|:----------------:|
 > | ![Home](screenshots/home.png) | ![Voice](screenshots/voice.png) | ![Multi](screenshots/multilingual.png) | ![Key](screenshots/security.png) |
@@ -116,7 +114,7 @@ Aira is engineered for continuous evolution. Planned enhancements and research d
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/aira-voice-assistant.git
+git clone https://github.com/amnraj12/aira-voice-assistant.git
 cd aira-voice-assistant
 npm install
 ```
@@ -191,8 +189,7 @@ Please make sure to update tests as appropriate.
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## 👤 Author & Contact
