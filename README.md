@@ -35,6 +35,43 @@ In an era where conversational AI is rapidly transforming how we interact with t
 
 ---
 
+## 🏗️ Technologies & Architecture
+
+Aira is the result of a relentless pursuit of technical excellence and innovation. Every technology choice is deliberate, maximizing performance, security and user experience:
+
+- **React Native**: Enables true cross-platform development with native performance, leveraging the latest advancements in mobile engineering.
+- **JavaScript**: Provides flexibility and rapid development, allowing for dynamic, maintainable, and scalable code across the entire application.
+- **Groq API**: Integrates ultra-fast, cost-effective LLM inference, pushing the boundaries of conversational AI on mobile.
+- **Gemma LLM**: Delivers contextual, nuanced conversations, setting a new standard for mobile AI assistants.
+- **Whisper AI**: Implements state-of-the-art speech-to-text, ensuring accessibility and accuracy in real-world environments.
+- **react-native-tts**: Provides expressive, natural voice synthesis, elevating the user experience to a new level.
+- **react-native-vector-icons**: Powers a visually rich, modern interface.
+- **react-native-gesture-handler**: Enables fluid, intuitive gestures for a seamless user journey.
+- **@react-native-async-storage/async-storage**: Ensures robust, persistent local data storage.
+- **react-native-keychain**: Delivers enterprise-grade credential security, with zero compromise on privacy.
+- **react-native-audio-recorder-player**: Facilitates high-fidelity audio capture for voice interactions.
+- **RNFS**: Provides advanced file system access for managing local assets.
+- **Axios**: Handles networking with reliability and scalability in mind.
+
+> This project demonstrates advanced architectural patterns, modular code organization, and a relentless focus on both developer and user experience—qualities that reflect a deep commitment to software craftsmanship and a passion for building world-class solutions.
+
+---
+
+## ✨ Features
+
+- 🎤 **Voice-Driven AI Chat:** Converse naturally—Aira listens, understands, and speaks back with human-like wit and empathy.
+- 🗣️ **Whisper AI Transcription:** Industry-leading speech-to-text accuracy, even in challenging environments.
+- 🤖 **Gemma LLM Conversations:** Sassy, context-aware, and always on point, powered by the latest large language models.
+- 🌍 **Multilingual Chat:** Type in any language; Aira adapts. Voice responses are primarily in English for clarity, but multilingual understanding is built-in.
+- 🔒 **Zero Data Leakage:** No cloud storage, no analytics, no tracking. Your data, your rules.
+- 🗝️ **Secure API Key Storage:** Your Groq API key is encrypted and stored using [react-native-keychain](https://github.com/oblador/react-native-keychain).
+- 🎨 **Customizable & Artistic UI:** Designed for screenshots that are as much art as they are interface.
+- 🏆 **Persistent Local Chat History:** All conversations are stored locally, enabling you to revisit past interactions without any privacy concerns.
+- 🛡️ **Robust Error Handling:** Ensures a smooth, crash-free experience even under adverse network or device conditions.
+- ⚡ **Reactive UI:** The interface updates instantly in response to user actions and data changes for a seamless experience.
+
+---
+
 ## 🚀 Why Aira?
 
 - **Global Accessibility, Local Empowerment:** Many leading voice AI solutions are either unavailable or heavily restricted in certain regions, with frequent outages and word limits. Aira is designed to work seamlessly for users everywhere, including India, ensuring uninterrupted, high-quality AI interaction.
@@ -53,42 +90,6 @@ Built with React Native, powered by Gemma and Whisper via Groq, and secured with
 
 > _Let your conversations be private, your assistant be witty, and your screenshots be art._
 
----
-
-## ✨ Features
-
-- 🎤 **Voice-Driven AI Chat:** Converse naturally—Aira listens, understands, and speaks back with human-like wit and empathy.
-- 🗣️ **Whisper AI Transcription:** Industry-leading speech-to-text accuracy, even in challenging environments.
-- 🤖 **Gemma LLM Conversations:** Sassy, context-aware, and always on point, powered by the latest large language models.
-- 🌍 **Multilingual Chat:** Type in any language; Aira adapts. Voice responses are primarily in English for clarity, but multilingual understanding is built-in.
-- 🔒 **Zero Data Leakage:** No cloud storage, no analytics, no tracking. Your data, your rules.
-- 🗝️ **Secure API Key Storage:** Your Groq API key is encrypted and stored using [react-native-keychain](https://github.com/oblador/react-native-keychain).
-- 🎨 **Customizable & Artistic UI:** Designed for screenshots that are as much art as they are interface.
-- 🏆 **Persistent Local Chat History:** All conversations are stored locally, enabling you to revisit past interactions without any privacy concerns.
-- 🛡️ **Robust Error Handling:** Ensures a smooth, crash-free experience even under adverse network or device conditions.
-- ⚡ **Reactive UI Patterns:** Utilizes asynchronous data flows and modular service layers for a responsive, maintainable codebase.
-
----
-
-## 🏗️ Technologies & Architecture
-
-Aira is the result of a relentless pursuit of technical excellence and innovation. Every technology choice is deliberate, maximizing performance, security, and developer experience:
-
-- **React Native**: Enables true cross-platform development with native performance, leveraging the latest advancements in mobile engineering.
-- **TypeScript**: Guarantees type safety and maintainability, empowering rapid iteration and large-scale refactoring with confidence.
-- **Groq API**: Integrates ultra-fast, cost-effective LLM inference, pushing the boundaries of conversational AI on mobile.
-- **Gemma LLM**: Delivers contextual, nuanced conversations, setting a new standard for mobile AI assistants.
-- **Whisper AI**: Implements state-of-the-art speech-to-text, ensuring accessibility and accuracy in real-world environments.
-- **react-native-tts**: Provides expressive, natural voice synthesis, elevating the user experience to a new level.
-- **react-native-vector-icons**: Powers a visually rich, modern interface.
-- **react-native-gesture-handler**: Enables fluid, intuitive gestures for a seamless user journey.
-- **@react-native-async-storage/async-storage**: Ensures robust, persistent local data storage.
-- **react-native-keychain**: Delivers enterprise-grade credential security, with zero compromise on privacy.
-- **react-native-audio-recorder-player**: Facilitates high-fidelity audio capture for voice interactions.
-- **RNFS**: Provides advanced file system access for managing local assets.
-- **Axios**: Handles networking with reliability and scalability in mind.
-
-> This project demonstrates advanced architectural patterns, modular code organization, and a relentless focus on both developer and user experience—qualities that reflect a deep commitment to software craftsmanship and a passion for building world-class solutions.
 
 ---
 
